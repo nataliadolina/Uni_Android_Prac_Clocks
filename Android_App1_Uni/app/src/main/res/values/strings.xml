@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android_App1_Uni</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="main_button_Moscow">Moscow</string>
+    <string name="main_button_NY">New york</string>
+    <string name="main_button_Canberra">Canberra</string>
+    <string name="main_button_Paris">Paris</string>
+    <string name="main_button_Vladivostok">Vladivostok</string>
+    <string name="main_button_Tokyo">Tokyo</string>
+</resources>

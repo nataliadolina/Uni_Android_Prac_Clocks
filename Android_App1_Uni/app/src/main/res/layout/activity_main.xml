@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <Button
+                android:id="@+id/main_button_Moscow"
+                android:text="@string/main_button_Moscow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <Button
+                android:id="@+id/main_button_Canberra"
+                android:text="@string/main_button_Canberra"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <Button
+                android:id="@+id/main_button_Tokyo"
+                android:text="@string/main_button_Tokyo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </TableRow>
+
+    <TableRow>
+        <Button
+                android:id="@+id/main_button_NY"
+                android:text="@string/main_button_NY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/main_button_Paris"
+                android:text="@string/main_button_Paris"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/main_button_Vladivostok"
+                android:text="@string/main_button_Vladivostok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+    </TableRow>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+                android:id="@+id/main_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"/>
+    </RelativeLayout>
+</TableLayout>
